@@ -7,5 +7,4 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.rose-pine"},
-  { import = "astrocommunity.motion.harpoon"},
 }
